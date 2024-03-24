@@ -1,10 +1,10 @@
 # AtividadeRayUnity
 
-using UnityEngine;
+        using UnityEngine;
 
-public class RaycastCollision : MonoBehaviour
-{
-    public float raycastDistance = 20f;
+        public class RaycastCollision : MonoBehaviour
+        {    
+        public float raycastDistance = 20f;
     
 
                     void Update()
