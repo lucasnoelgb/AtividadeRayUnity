@@ -1,5 +1,10 @@
 # AtividadeRayUnity
-desativar o box colider de objetos que nao serão ativigidos
+# Como Fizemos
+# Prefabs 
+![image](https://github.com/lucasnoelgb/AtividadeRayUnity/assets/129121307/d53a7ef6-e78b-480a-a304-f3abd081ed21)
+![image](https://github.com/lucasnoelgb/AtividadeRayUnity/assets/129121307/5b1b2d19-9df0-4309-be58-418c850e48b3)
+
+ativar a layer raycast ignore
 
         using UnityEngine;
 
