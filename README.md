@@ -1,16 +1,13 @@
 # AtividadeRayUnity
-ativar a layer raycast ignore
 
 # Como Fizemos
--Primeiramente tivemos a ideia de forma criativa reproduzir o raycast e o destroy
+-Primeiramente tivemos a ideia de fazer uma cena onde o player teria que olha para o shampoo do cristiano ronaldo e o destroi-lo após isso foi feito o cenário e ativando a função "Ingnore RayCast"
 
 # Prefabs 
 -Esses foram os prefabs ultilizados para compor nosso cenários sendo um deles acoplado a câmera fazendo o que ele tenha a mesma movimentação da propria.
 
 ![image](https://github.com/lucasnoelgb/AtividadeRayUnity/assets/129121307/d53a7ef6-e78b-480a-a304-f3abd081ed21)![image](https://github.com/lucasnoelgb/AtividadeRayUnity/assets/129121307/5b1b2d19-9df0-4309-be58-418c850e48b3)
 
-# RayCast
-# Destroy
 
 ## Codigo do RayCast e do Destroy
 
