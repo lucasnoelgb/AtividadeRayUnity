@@ -24,7 +24,7 @@ https://drive.google.com/file/d/1803PK_2DUSLVb_dLWALZcDEwTCB6C3nb/view?usp=drive
 
 
 # Movimentação do Mouse 
-- 'Sensi': Define a sensibilidade do mouse durante a cena no eixo X e Y (atualmente definida como 5.0f).
+- 'Sensibilidade': Define a sensibilidade do mouse durante a cena no eixo X e Y (atualmente definida como 5.0f).
 - 'mouseX e mouseY': Armazenam a posição atual do mouse no eixo X e Y, . em seguida, ajusta a rotação do objeto no cenário 'através do transform.eulerAngles' com base nessas variáveis, fazendo que esse script possa fazer a câmera ser movimentada de forma horizontal e vertical.
   
 ![image](https://github.com/lucasnoelgb/AtividadeRayUnity/assets/129121307/1dcbf265-17d1-4d27-a0f4-c1ffcaa7ab71)
