@@ -1,4 +1,5 @@
-
+# Criador
+Lucas Noel Gomes Batista
 
 # Descrição
 - Esse projeto foi baseado em jogo de circo ou te parque de diverção o "tomba lata" onde foi feita diversas adaptações onde foi alterado para um cenario que reflete a uma barbearia onde nela foi criado uma cena com os elementos RayCast Destroy e os Prefabs.
@@ -12,7 +13,7 @@ https://drive.google.com/file/d/1803PK_2DUSLVb_dLWALZcDEwTCB6C3nb/view?usp=drive
 ## RayCast 
 - Primeiramente foi criado a classe "raycastDistance" para denominar que o raio irá até a distancia de 20.
 - Em seguida usando o 'Ray' ele vai gerar um raio a partir do objeto que esta o script, e juntamente com o hitinfo que armazenará a informação da colisão.
-- Esses 3 parâmetros serão executados no 'Physics.Raycast()' que ficara atualizando a cada frame por causa do 'Update()'
+- Esses 3 parâmetros serão executados no 'Physics.Raycast()' que ficara atualizando a cada frame por causa do 'Update()'.
   
 ## Destroy
 - Se o raio acertar o shampoo do Cristiano Ronaldo , o Destroy() será chamado para destruir a instância do objeto que acaba de ser colidido.
@@ -37,11 +38,13 @@ https://drive.google.com/file/d/1803PK_2DUSLVb_dLWALZcDEwTCB6C3nb/view?usp=drive
 
 # Prefabs 
 - Sacador de cabelo onde foi adionado para acompanhar a câmera ja que esta acoplado a ela.
+  
 ![image](https://github.com/lucasnoelgb/AtividadeRayUnity/assets/129121307/bd3caddb-5319-49a1-8669-35ca6fa3560b)<br>
 
 
 - O Sofá foi adicionado apenas para ambientar o local adicionar alguns elemento a mais para ficar similar a
 uma barbearia.
+
 ![image](https://github.com/lucasnoelgb/AtividadeRayUnity/assets/129121307/fde9220e-32c8-4741-9186-bb73ec975264)
 
 # Objeto que será destruido
