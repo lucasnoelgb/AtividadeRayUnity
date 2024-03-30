@@ -1,4 +1,4 @@
-
+Isabella correia e Lucas Noel 
 
 # Descrição
 - Esse projeto foi baseado em jogo de circo ou te parque de diverção o "tomba lata" onde foi feita diversas adaptações onde foi alterado para um cenario que reflete a uma barbearia onde nela foi criado uma cena com os elementos RayCast Destroy e os Prefabs.
